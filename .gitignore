@@ -1,0 +1,5 @@
+# 项目排除路径
+/Mybatis-demo02/target/
+/Mybatis-demo03/target/
+/Mybatis-MBG/target/
+/out/
